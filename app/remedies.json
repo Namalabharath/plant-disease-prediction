@@ -1,0 +1,305 @@
+[
+    {
+        "disease": "Apple___Apple_scab",
+        "medicines": ["Bordeaux mixture", "Captan", "Mancozeb"],
+        "fertilizers": ["NPK 10-10-10", "Compost"],
+        "soil_type": "Well-drained loamy soil",
+        "temperature_range": "16-24°C",
+        "prevention": "Sanitation, resistant varieties, pruning, good airflow"
+    },
+    {
+        "disease": "Apple___Black_rot",
+        "medicines": ["Thiophanate-methyl", "Captan", "Mancozeb"],
+        "fertilizers": ["NPK 10-10-10", "Organic mulch"],
+        "soil_type": "Well-drained loamy soil",
+        "temperature_range": "16-24°C",
+        "prevention": "Removal of infected debris, proper pruning, sanitation"
+    },
+    {
+        "disease": "Apple___Cedar_apple_rust",
+        "medicines": ["Myclobutanil", "Chlorothalonil"],
+        "fertilizers": ["NPK 10-10-10", "Compost"],
+        "soil_type": "Well-drained loamy soil",
+        "temperature_range": "18-24°C",
+        "prevention": "Removal of nearby cedar trees, resistant apple varieties"
+    },
+    {
+        "disease": "Apple___healthy",
+        "medicines": [],
+        "fertilizers": ["NPK 10-10-10", "Compost"],
+        "soil_type": "Well-drained loamy soil",
+        "temperature_range": "16-24°C",
+        "prevention": "Regular pruning, proper sanitation"
+    },
+    {
+        "disease": "Blueberry___healthy",
+        "medicines": [],
+        "fertilizers": ["Ammonium sulfate", "Peat moss"],
+        "soil_type": "Acidic sandy loam soil",
+        "temperature_range": "15-25°C",
+        "prevention": "Proper pruning, adequate drainage"
+    },
+    {
+        "disease": "Cherry_(including_sour)___Powdery_mildew",
+        "medicines": ["Sulfur-based fungicide", "Potassium bicarbonate", "Myclobutanil", "Triflumizole"],
+        "fertilizers": ["Organic mulch", "NPK 12-12-12"],
+        "soil_type": "Well-drained sandy loam soil",
+        "temperature_range": "15-26°C",
+        "prevention": "Good ventilation, resistant varieties, avoid overhead watering"
+    },
+    {
+        "disease": "Cherry_(including_sour)___healthy",
+        "medicines": [],
+        "fertilizers": ["NPK 10-10-10", "Compost"],
+        "soil_type": "Well-drained sandy loam soil",
+        "temperature_range": "15-26°C",
+        "prevention": "Regular pruning, sanitation, balanced fertilization"
+    },
+    {
+        "disease": "Corn_(maize)_Cercospora_leaf_spot Gray_leaf_spot",
+        "medicines": ["Azoxystrobin", "Propiconazole"],
+        "fertilizers": ["NPK 20-20-20", "Urea"],
+        "soil_type": "Well-drained sandy loam soil",
+        "temperature_range": "18-27°C",
+        "prevention": "Crop rotation, resistant hybrids"
+    },
+    {
+        "disease": "Corn_(maize)___Common_rust_",
+        "medicines": ["Mancozeb", "Chlorothalonil", "Azoxystrobin", "Propiconazole"],
+        "fertilizers": ["NPK 20-20-20", "Urea"],
+        "soil_type": "Well-drained sandy loam soil",
+        "temperature_range": "16-25°C",
+        "prevention": "Early planting, resistant hybrids, crop rotation"
+    },
+    {
+        "disease": "Corn_(maize)_Northern_Leaf_Blight",
+        "medicines": ["Azoxystrobin", "Pyraclostrobin"],
+        "fertilizers": ["NPK 20-20-20", "Urea"],
+        "soil_type": "Well-drained sandy loam soil",
+        "temperature_range": "18-27°C",
+        "prevention": "Crop rotation, resistant hybrids"
+    },
+    {
+        "disease": "Corn_(maize)_healthy",
+        "medicines": [],
+        "fertilizers": ["NPK 20-20-20", "Urea"],
+        "soil_type": "Well-drained sandy loam soil",
+        "temperature_range": "18-27°C",
+        "prevention": "Balanced watering, fertilization, crop rotation"
+    },
+    {
+        "disease": "Grape___Black_rot",
+        "medicines": ["Myclobutanil", "Mancozeb"],
+        "fertilizers": ["NPK 10-10-10", "Organic mulch"],
+        "soil_type": "Sandy loam soil",
+        "temperature_range": "15-27°C",
+        "prevention": "Remove infected fruits, prune for airflow"
+    },
+    {
+        "disease": "Grape___Esca_(Black_Measles)",
+        "medicines": ["Liquid lime sulfur", "Tebuconazole", "Copper hydroxide", "Sodium arsenite (trunk injection)"],
+        "fertilizers": ["Compost", "NPK 10-10-10"],
+        "soil_type": "Sandy loam soil",
+        "temperature_range": "15-27°C",
+        "prevention": "Sanitize pruning equipment, remove infected wood"
+    },
+    {
+        "disease": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+        "medicines": ["Copper-based fungicides", "Mancozeb", "Chlorothalonil", "Azoxystrobin"],
+        "fertilizers": ["Compost", "NPK 10-10-10"],
+        "soil_type": "Sandy loam soil",
+        "temperature_range": "15-27°C",
+        "prevention": "Regular pruning, good ventilation, remove infected leaves"
+    },
+    {
+        "disease": "Grape___healthy",
+        "medicines": [],
+        "fertilizers": ["Compost", "NPK 10-10-10"],
+        "soil_type": "Sandy loam soil",
+        "temperature_range": "15-27°C",
+        "prevention": "Proper pruning, trellising"
+    },
+    {
+        "disease": "Orange___Haunglongbing_(Citrus_greening)",
+        "medicines": ["No cure available", "Imidacloprid (for psyllid control)", "Thiamethoxam (for psyllid control)", "Oxytetracycline injection"],
+        "fertilizers": ["NPK 6-6-6", "Organic compost", "Micronutrient supplements"],
+        "soil_type": "Well-drained sandy loam soil",
+        "temperature_range": "18-30°C",
+        "prevention": "Control Asian citrus psyllids, remove infected trees, use certified disease-free nursery stock"
+    },
+    {
+        "disease": "Peach___Bacterial_spot",
+        "medicines": ["Copper-based fungicides", "Oxytetracycline"],
+        "fertilizers": ["NPK 10-10-10", "Organic mulch"],
+        "soil_type": "Well-drained sandy loam soil",
+        "temperature_range": "18-26°C",
+        "prevention": "Pruning infected branches, resistant varieties"
+    },
+    {
+        "disease": "Peach___healthy",
+        "medicines": [],
+        "fertilizers": ["NPK 10-10-10", "Organic mulch"],
+        "soil_type": "Well-drained sandy loam soil",
+        "temperature_range": "18-26°C",
+        "prevention": "Proper pruning, sanitation, regular care"
+    },
+    {
+        "disease": "Pepper,_bell___Bacterial_spot",
+        "medicines": ["Copper hydroxide", "Streptomycin sulfate", "Oxytetracycline", "Mancozeb"],
+        "fertilizers": ["NPK 15-15-15", "Organic compost"],
+        "soil_type": "Well-drained sandy loam soil",
+        "temperature_range": "18-30°C",
+        "prevention": "Crop rotation, resistant varieties, sanitation, avoid overhead irrigation"
+    },
+    {
+        "disease": "Pepper,_bell___healthy",
+        "medicines": [],
+        "fertilizers": ["NPK 15-15-15", "Organic compost"],
+        "soil_type": "Well-drained sandy loam soil",
+        "temperature_range": "18-30°C",
+        "prevention": "Balanced watering, regular inspection, sanitation, proper spacing"
+    },
+    {
+        "disease": "Potato___Early_blight",
+        "medicines": ["Chlorothalonil", "Mancozeb", "Azoxystrobin", "Boscalid", "Pyraclostrobin"],
+        "fertilizers": ["NPK 10-10-20", "Compost"],
+        "soil_type": "Well-drained loamy soil",
+        "temperature_range": "24-29°C",
+        "prevention": "Crop rotation, avoid overhead irrigation, remove infected debris, plant certified seed"
+    },
+    {
+        "disease": "Potato___Late_blight",
+        "medicines": ["Metalaxyl", "Chlorothalonil", "Mancozeb", "Copper-based fungicides", "Fosetyl-aluminum"],
+        "fertilizers": ["NPK 10-10-20", "Compost"],
+        "soil_type": "Well-drained loamy soil",
+        "temperature_range": "10-25°C",
+        "prevention": "Resistant varieties, crop rotation, good drainage, avoid overhead irrigation"
+    },
+    {
+        "disease": "Potato___healthy",
+        "medicines": [],
+        "fertilizers": ["NPK 10-10-20", "Compost"],
+        "soil_type": "Well-drained loamy soil",
+        "temperature_range": "15-25°C",
+        "prevention": "Regular inspection, sanitation, balanced fertilization"
+    },
+    {
+        "disease": "Raspberry___healthy",
+        "medicines": [],
+        "fertilizers": ["NPK 10-10-10", "Compost"],
+        "soil_type": "Well-drained loamy soil",
+        "temperature_range": "15-25°C",
+        "prevention": "Proper pruning, weed control, sanitation"
+    },
+    {
+        "disease": "Soybean___healthy",
+        "medicines": [],
+        "fertilizers": ["NPK 0-20-20", "Compost"],
+        "soil_type": "Well-drained loamy soil",
+        "temperature_range": "20-30°C",
+        "prevention": "Crop rotation, resistant varieties, proper irrigation"
+    },
+    {
+        "disease": "Squash___Powdery_mildew",
+        "medicines": ["Sulfur-based fungicide", "Potassium bicarbonate", "Myclobutanil", "Triflumizole", "Neem oil"],
+        "fertilizers": ["NPK 5-10-10", "Compost"],
+        "soil_type": "Well-drained sandy loam soil",
+        "temperature_range": "20-25°C",
+        "prevention": "Adequate spacing, good airflow, resistant varieties, avoid overhead watering"
+    },
+    {
+        "disease": "Strawberry___Leaf_scorch",
+        "medicines": ["Copper-based fungicides", "Myclobutanil", "Chlorothalonil", "Azoxystrobin"],
+        "fertilizers": ["NPK 10-10-10", "Compost"],
+        "soil_type": "Well-drained sandy loam soil",
+        "temperature_range": "15-25°C",
+        "prevention": "Improved air circulation, avoid overhead watering, remove infected leaves, plant resistant varieties"
+    },
+    {
+        "disease": "Strawberry___healthy",
+        "medicines": [],
+        "fertilizers": ["NPK 10-10-10", "Compost"],
+        "soil_type": "Well-drained sandy loam soil",
+        "temperature_range": "15-25°C",
+        "prevention": "Good drainage, regular removal of old leaves, balanced fertilization"
+    },
+    {
+        "disease": "Tomato___Bacterial_spot",
+        "medicines": ["Copper-based bactericides", "Streptomycin", "Oxytetracycline", "Copper hydroxide"],
+        "fertilizers": ["NPK 10-10-10", "Compost"],
+        "soil_type": "Well-drained loamy soil",
+        "temperature_range": "20-30°C",
+        "prevention": "Resistant varieties, sanitation, proper plant spacing, avoid overhead irrigation"
+    },
+    {
+        "disease": "Tomato___Early_blight",
+        "medicines": ["Chlorothalonil", "Mancozeb", "Azoxystrobin", "Boscalid", "Copper-based fungicides"],
+        "fertilizers": ["NPK 10-10-10", "Compost"],
+        "soil_type": "Well-drained loamy soil",
+        "temperature_range": "24-29°C",
+        "prevention": "Crop rotation, pruning lower leaves, mulching, avoiding overhead irrigation, proper spacing"
+    },  {
+        "disease": "Tomato___Late_blight",
+        "medicines": ["Metalaxyl", "Chlorothalonil", "Mancozeb", "Copper-based fungicides", "Fosetyl-aluminum"],
+        "fertilizers": ["NPK 10-10-10", "Compost"],
+        "soil_type": "Well-drained loamy soil",
+        "temperature_range": "10-25°C",
+        "prevention": "Resistant varieties, avoid overhead watering, remove infected debris, proper spacing"
+    },
+    {
+        "disease": "Tomato___Leaf_Mold",
+        "medicines": ["Copper-based fungicides", "Chlorothalonil", "Myclobutanil", "Azoxystrobin"],
+        "fertilizers": ["NPK 10-10-10", "Compost"],
+        "soil_type": "Well-drained loamy soil",
+        "temperature_range": "18-24°C",
+        "prevention": "Good ventilation, reduce humidity, crop rotation, avoid overcrowding"
+    },
+    {
+        "disease": "Tomato___Septoria_leaf_spot",
+        "medicines": ["Chlorothalonil", "Copper-based fungicides", "Mancozeb", "Azoxystrobin"],
+        "fertilizers": ["NPK 10-10-10", "Compost"],
+        "soil_type": "Well-drained loamy soil",
+        "temperature_range": "20-25°C",
+        "prevention": "Crop rotation, remove infected foliage, good airflow, mulching"
+    },
+    {
+        "disease": "Tomato___Spider_mites Two-spotted_spider_mite",
+        "medicines": ["Neem oil", "Insecticidal soap", "Abamectin", "Bifenazate", "Predatory mites"],
+        "fertilizers": ["NPK 10-10-10", "Compost"],
+        "soil_type": "Well-drained loamy soil",
+        "temperature_range": "20-30°C",
+        "prevention": "Monitor regularly, maintain humidity, beneficial insects, avoid over-fertilization with nitrogen"
+    },
+    {
+        "disease": "Tomato___Target_Spot",
+        "medicines": ["Chlorothalonil", "Azoxystrobin", "Mancozeb", "Copper-based fungicides"],
+        "fertilizers": ["NPK 10-10-10", "Compost"],
+        "soil_type": "Well-drained loamy soil",
+        "temperature_range": "20-30°C",
+        "prevention": "Proper ventilation, crop rotation, remove infected debris, avoid overhead irrigation"
+    },
+    {
+        "disease": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+        "medicines": ["No cure available", "Imidacloprid (for whitefly control)", "Thiamethoxam (for whitefly control)", "Reflective mulch"],
+        "fertilizers": ["NPK 10-10-10", "Compost"],
+        "soil_type": "Well-drained loamy soil",
+        "temperature_range": "25-35°C",
+        "prevention": "Control whiteflies, resistant varieties, remove infected plants, use reflective mulch, screen houses"
+    },
+    {
+        "disease": "Tomato___Tomato_mosaic_virus",
+        "medicines": ["No cure available", "Remove infected plants", "Disinfect tools with 10% bleach solution"],
+        "fertilizers": ["NPK 10-10-10", "Compost"],
+        "soil_type": "Well-drained loamy soil",
+        "temperature_range": "20-25°C",
+        "prevention": "Resistant varieties, disinfect tools, hygiene, avoid tobacco use around plants, certified virus-free seeds"
+    },
+    {
+        "disease": "Tomato___healthy",
+        "medicines": [],
+        "fertilizers": ["NPK 10-10-10", "Compost"],
+        "soil_type": "Well-drained loamy soil",
+        "temperature_range": "20-30°C",
+        "prevention": "Balanced watering, fertilization, routine pruning"
+    }
+  ]
