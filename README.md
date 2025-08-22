@@ -177,13 +177,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Streamlit**: Web application framework
 - **Agricultural Experts**: Domain knowledge for treatment recommendations
 
-## 📞 Contact
-
-**Your Name** - your.email@example.com
-
-Project Link: [https://github.com/YOUR-USERNAME/plant-disease-detection](https://github.com/YOUR-USERNAME/plant-disease-detection)
-
----
 
 ⭐ **Star this repository if you find it helpful!**
 
